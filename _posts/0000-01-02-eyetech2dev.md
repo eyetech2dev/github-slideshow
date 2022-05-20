@@ -2,4 +2,5 @@
 layout: slide 
 title: "Welcome to our second slide!" 
 --- 
-Your text Use the left arrow to go back!
+"It do be like dat sometimes"
+Use the left arrow to go back!
